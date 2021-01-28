@@ -2,7 +2,7 @@ body {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background: #dee5ff; /* fallback for old browsers */
+  background: #dee5ff; /* fallback for old browsers VERSION 1.00 */
   background: -webkit-linear-gradient(
     to right,
     #e2e2e2,
